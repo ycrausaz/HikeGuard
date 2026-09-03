@@ -10,7 +10,7 @@
 
 **HikeGuard — Privacy Policy**
 
-Last updated: [DATE]
+Last updated: 2026/09/03
 
 HikeGuard ("the app") is an iPhone hiking application developed by Yann Crausaz ("we", "us", "the developer"). This Privacy Policy explains what information the app processes, how it is used, and the choices you have.
 
@@ -70,7 +70,7 @@ We may update this Privacy Policy from time to time. The "Last updated" date abo
 
 **Contact**
 
-If you have any questions about this Privacy Policy, contact: Yann Crausaz — [your contact email]
+If you have any questions about this Privacy Policy, contact: Yann Crausaz — contact@hikeguard.ch
 
 ---
 
@@ -78,7 +78,7 @@ If you have any questions about this Privacy Policy, contact: Yann Crausaz — [
 
 **HikeGuard — Politique de confidentialité**
 
-Dernière mise à jour : [DATE]
+Dernière mise à jour : 03.09.2026
 
 HikeGuard (« l'app ») est une application de randonnée pour iPhone développée par Yann Crausaz (« nous », « le développeur »). La présente politique de confidentialité explique quelles informations l'app traite, comment elles sont utilisées et les choix dont vous disposez.
 
@@ -138,7 +138,7 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 
 **Contact**
 
-Pour toute question concernant cette politique de confidentialité, contactez : Yann Crausaz — [your contact email]
+Pour toute question concernant cette politique de confidentialité, contactez : Yann Crausaz — contact@hikeguard.ch
 
 ---
 
@@ -146,7 +146,7 @@ Pour toute question concernant cette politique de confidentialité, contactez : 
 
 **HikeGuard — Datenschutzerklärung**
 
-Zuletzt aktualisiert: [DATE]
+Zuletzt aktualisiert: 03.09.2026
 
 HikeGuard („die App") ist eine iPhone-Wanderapp, entwickelt von Yann Crausaz („wir", „uns", „der Entwickler"). Diese Datenschutzerklärung erläutert, welche Informationen die App verarbeitet, wie sie verwendet werden und welche Wahlmöglichkeiten Sie haben.
 
@@ -206,7 +206,7 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Das Datu
 
 **Kontakt**
 
-Bei Fragen zu dieser Datenschutzerklärung wenden Sie sich an: Yann Crausaz — [your contact email]
+Bei Fragen zu dieser Datenschutzerklärung wenden Sie sich an: Yann Crausaz — contact@hikeguard.ch
 
 ---
 
@@ -214,7 +214,7 @@ Bei Fragen zu dieser Datenschutzerklärung wenden Sie sich an: Yann Crausaz — 
 
 **HikeGuard — Informativa sulla privacy**
 
-Ultimo aggiornamento: [DATE]
+Ultimo aggiornamento: 03.09.2026
 
 HikeGuard (« l'app ») è un'applicazione per escursioni per iPhone sviluppata da Yann Crausaz (« noi », « lo sviluppatore »). La presente informativa sulla privacy spiega quali informazioni l'app tratta, come vengono utilizzate e quali scelte hai a disposizione.
 
@@ -274,4 +274,4 @@ Potremmo aggiornare periodicamente questa informativa sulla privacy. La data di 
 
 **Contatto**
 
-Per qualsiasi domanda su questa informativa sulla privacy, contatta: Yann Crausaz — [your contact email]
+Per qualsiasi domanda su questa informativa sulla privacy, contatta: Yann Crausaz — contact@hikeguard.ch
