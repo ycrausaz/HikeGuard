@@ -1,11 +1,5 @@
 # HikeGuard — Privacy Policy
 
-> This document contains the same policy in **English**, **French**, **German** and **Italian**.
-> Before publishing: replace `[DATE]` with the effective date and `[your contact email]` with your email.
-> Verify the third-party links point to each provider's current privacy/terms page.
-
----
-
 ## English
 
 **HikeGuard — Privacy Policy**
