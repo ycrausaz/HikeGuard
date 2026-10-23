@@ -39,7 +39,7 @@ On a new device, or after reinstalling, open the full-version screen in the app 
 - **How do I share or export a hike?** With the full version, finish the hike and export the GPX through the Files app or the share sheet (AirDrop, Mail, Messages, and so on). You can also export the session log as CSV.
 - **How do I back up my hikes?** Back up and restore your hikes via iCloud from Settings — this is free.
 - **What if my hike is interrupted?** Your track is saved as you go, so you can recover an in-progress hike after reopening the app.
-- **Which languages are supported?** English, German, French and Italian.
+- **Which languages are supported?** English, German, French, Italian and Spanish.
 
 **Privacy**
 Your hikes stay on your iPhone. Read the privacy policy: **https://github.com/ycrausaz/HikeGuard/blob/main/HikeGuard_Privacy_Policy.md**
@@ -84,7 +84,7 @@ Sur un nouvel appareil, ou après réinstallation, ouvrez l'écran de la version
 - **Comment partager ou exporter une randonnée ?** Avec la version complète, terminez la randonnée et exportez le GPX via l'app Fichiers ou la feuille de partage (AirDrop, Mail, Messages, etc.). Vous pouvez aussi exporter le journal de session au format CSV.
 - **Comment sauvegarder mes randonnées ?** Sauvegardez et restaurez vos randonnées via iCloud depuis les réglages — c'est gratuit.
 - **Que se passe-t-il si ma randonnée est interrompue ?** Votre trace est enregistrée au fil de la marche : vous pouvez récupérer une randonnée en cours après avoir rouvert l'app.
-- **Quelles langues sont prises en charge ?** Anglais, allemand, français et italien.
+- **Quelles langues sont prises en charge ?** Anglais, allemand, français, italien et espagnol.
 
 **Confidentialité**
 Vos randonnées restent sur votre iPhone. Consultez la politique de confidentialité : **https://github.com/ycrausaz/HikeGuard/blob/main/HikeGuard_Privacy_Policy.md**
@@ -129,7 +129,7 @@ Referenzrouten (einer geplanten GPX-/KML-Route folgen), Abweichungswarnungen, GP
 - **Wie teile oder exportiere ich eine Wanderung?** Beende mit der Vollversion die Wanderung und exportiere die GPX-Datei über die Dateien-App oder das Teilen-Menü (AirDrop, Mail, Nachrichten usw.). Du kannst auch das Session-Protokoll als CSV exportieren.
 - **Wie sichere ich meine Wanderungen?** Sichere und stelle deine Wanderungen über iCloud in den Einstellungen wieder her — das ist kostenlos.
 - **Was, wenn meine Wanderung unterbrochen wird?** Deine Spur wird laufend gespeichert, sodass du eine laufende Wanderung nach dem Neustart der App wiederherstellen kannst.
-- **Welche Sprachen werden unterstützt?** Englisch, Deutsch, Französisch und Italienisch.
+- **Welche Sprachen werden unterstützt?** Englisch, Deutsch, Französisch, Italienisch und Spanisch.
 
 **Datenschutz**
 Deine Wanderungen bleiben auf deinem iPhone. Lies die Datenschutzerklärung: **https://github.com/ycrausaz/HikeGuard/blob/main/HikeGuard_Privacy_Policy.md**
@@ -174,12 +174,57 @@ Su un nuovo dispositivo, o dopo una reinstallazione, apri la schermata della ver
 - **Come condivido o esporto un'escursione?** Con la versione completa, termina l'escursione ed esporta il GPX tramite l'app File o il menu di condivisione (AirDrop, Mail, Messaggi e così via). Puoi anche esportare il registro della sessione in formato CSV.
 - **Come eseguo il backup delle mie escursioni?** Esegui il backup e ripristina le tue escursioni tramite iCloud dalle impostazioni — è gratis.
 - **Cosa succede se la mia escursione viene interrotta?** La traccia viene salvata man mano, così puoi recuperare un'escursione in corso dopo aver riaperto l'app.
-- **Quali lingue sono supportate?** Inglese, tedesco, francese e italiano.
+- **Quali lingue sono supportate?** Inglese, tedesco, francese, italiano e spagnolo.
 
 **Privacy**
 Le tue escursioni restano sul tuo iPhone. Leggi l'informativa sulla privacy: **https://github.com/ycrausaz/HikeGuard/blob/main/HikeGuard_Privacy_Policy.md**
 
 **Contatto**
+Yann Crausaz — **contact@hikeguard.ch**
+
+---
+
+## Español
+
+**HikeGuard — Soporte**
+
+¿Necesitas ayuda con HikeGuard? Esta página responde a las preguntas más frecuentes. Si no encuentras lo que buscas, escribe a **contact@hikeguard.ch** y te responderé.
+
+**¿HikeGuard es gratis?**
+Sí: grabar tus excursiones es siempre gratis: seguimiento GPS, desnivel barométrico, estadísticas al finalizar, la alerta de seguridad por inmovilidad, Actividades en vivo y copia de seguridad en iCloud. Una única compra (sin suscripción) desbloquea la versión completa en todos tus dispositivos.
+
+**¿Qué incluye la versión completa?**
+Rutas de referencia (seguir una ruta GPX/KML planificada), alertas de fuera de ruta, exportación GPX y descarga de mapas SwissTopo sin conexión.
+
+**¿Cómo restauro mi compra?**
+En un dispositivo nuevo, o tras reinstalar la app, abre la pantalla de la versión completa en la app y toca **Restaurar la compra**.
+
+**Primeros pasos**
+1. Crea una excursión y ponle un nombre.
+2. Iníciala para grabar tu excursión: la grabación es gratis.
+3. Con la versión completa, importa antes un archivo GPX o KML para seguir una ruta planificada.
+4. Pausa, reanuda o finaliza cuando quieras. La pantalla final muestra tus estadísticas; con la versión completa puedes exportar un archivo GPX.
+
+**Permisos que solicita HikeGuard**
+- **Ubicación**: necesaria para grabar tu excursión y mostrar tu posición. Para que la grabación continúe con la pantalla bloqueada, configura el acceso a la ubicación en «Siempre»; si no, mantén la app abierta.
+- **Movimiento y forma física**: en los iPhone con barómetro, permite medir el desnivel a partir de la presión atmosférica.
+
+**Preguntas frecuentes**
+- **¿Por qué necesita la app la ubicación en segundo plano?** Para seguir grabando y, con la versión completa, avisarte si te sales de la ruta planificada con la pantalla apagada.
+- **La altitud difiere del GPS sin procesar, ¿por qué?** En los iPhone con barómetro, el desnivel se mide por la presión atmosférica, que es más estable que la altitud GPS.
+- **¿Qué es la alerta de inmovilidad?** Una alerta de seguridad opcional que te avisa si llevas demasiado tiempo sin moverte. Actívala en Ajustes.
+- **¿Qué mapas hay disponibles?** Apple Maps, SwissTopo y OpenTopoMap. SwissTopo ofrece los mismos estilos que el mapa oficial suizo y es el más indicado para hacer senderismo en Suiza.
+- **¿Puedo usar mapas sin conexión?** Descargar zonas de SwissTopo para usarlas sin conexión es una función de la versión completa. Los mapas en línea estándar funcionan en todas las versiones.
+- **¿Cómo sigo una ruta planificada?** Con la versión completa, importa un archivo GPX o KML (o abre uno compartido desde otra app) y luego inicia la excursión. Verás la distancia restante, el tiempo estimado hasta el destino y las alertas de fuera de ruta, y podrás invertir o quitar la ruta durante la excursión.
+- **¿Cómo comparto o exporto una excursión?** Con la versión completa, finaliza la excursión y exporta el GPX mediante la app Archivos o la hoja para compartir (AirDrop, Mail, Mensajes, etc.). También puedes exportar el registro de la sesión en CSV.
+- **¿Cómo hago una copia de seguridad de mis excursiones?** Haz copias de seguridad de tus excursiones y restáuralas mediante iCloud desde Ajustes; es gratis.
+- **¿Qué pasa si mi excursión se interrumpe?** Tu recorrido se guarda sobre la marcha, así que puedes recuperar una excursión en curso al volver a abrir la app.
+- **¿Qué idiomas están disponibles?** Inglés, alemán, francés, italiano y español.
+
+**Privacidad**
+Tus excursiones se quedan en tu iPhone. Lee la política de privacidad: **https://github.com/ycrausaz/HikeGuard/blob/main/HikeGuard_Privacy_Policy.md**
+
+**Contacto**
 Yann Crausaz — **contact@hikeguard.ch**
 
 ---
@@ -211,7 +256,7 @@ HikeGuard is an iPhone hiking companion that records your hike as a track and, w
 - Offline SwissTopo map downloads
 
 **Private by design:** your data stays on your iPhone. No account, no sign-up.
-Available in English, German, French and Italian.
+Available in English, German, French, Italian and Spanish.
 
 **Contact:** contact@hikeguard.ch
 
@@ -239,7 +284,7 @@ HikeGuard est un compagnon de randonnée pour iPhone qui enregistre votre randon
 - Téléchargement des cartes SwissTopo hors ligne
 
 **Conçu pour la confidentialité :** vos données restent sur votre iPhone. Aucun compte, aucune inscription.
-Disponible en anglais, allemand, français et italien.
+Disponible en anglais, allemand, français, italien et espagnol.
 
 **Contact :** contact@hikeguard.ch
 
@@ -267,7 +312,7 @@ HikeGuard ist ein Wanderbegleiter für das iPhone, der deine Wanderung als Spur 
 - Download von SwissTopo-Karten für offline
 
 **Privat von Grund auf:** Deine Daten bleiben auf deinem iPhone. Kein Konto, keine Anmeldung.
-Verfügbar auf Englisch, Deutsch, Französisch und Italienisch.
+Verfügbar auf Englisch, Deutsch, Französisch, Italienisch und Spanisch.
 
 **Kontakt:** contact@hikeguard.ch
 
@@ -295,6 +340,34 @@ HikeGuard è un compagno di escursioni per iPhone che registra la tua escursione
 - Download delle mappe SwissTopo offline
 
 **Rispettosa della privacy:** i tuoi dati restano sul tuo iPhone. Nessun account, nessuna registrazione.
-Disponibile in inglese, tedesco, francese e italiano.
+Disponibile in inglese, tedesco, francese, italiano e spagnolo.
 
 **Contatto:** contact@hikeguard.ch
+
+---
+
+## Español
+
+**HikeGuard — Graba tu excursión. No te salgas de la ruta.**
+
+HikeGuard es un compañero de senderismo para iPhone que graba tu excursión como un recorrido y, con la versión completa, te avisa si te desvías de una ruta planificada. Cada salida es su propia sesión, con su recorrido, sus estadísticas y su registro en un solo lugar.
+
+**Gratis**
+- Grabación por sesiones de la distancia recorrida, el desnivel positivo acumulado y tu recorrido completo
+- Desnivel barométrico en los iPhone con barómetro, con una precisión que no oscila con el GPS
+- Estadísticas detalladas al finalizar: duración, tiempo en movimiento, ascenso y descenso, ritmo y velocidad medios, altitud mínima y máxima
+- Alerta de seguridad opcional por inmovilidad
+- Apple Maps, SwissTopo (estilos del mapa oficial suizo) y OpenTopoMap
+- Progreso en tiempo real (distancia, desnivel y tiempo) en la pantalla de bloqueo y en la Dynamic Island
+- Copia de seguridad y restauración de tus excursiones mediante iCloud
+
+**Versión completa — compra única, sin suscripción**
+- Rutas de referencia: importa un archivo GPX o KML, o abre uno compartido desde otra app, y síguelo con flechas de dirección; inviértelo o quítalo durante la excursión
+- Alertas de fuera de ruta, distancia restante y tiempo estimado hasta el destino
+- Exportación GPX 1.1 a la app Archivos o a la hoja para compartir, con guardado automático opcional en iCloud, además de exportar el registro de la sesión en CSV
+- Descarga de mapas SwissTopo sin conexión
+
+**Privacidad desde el diseño:** tus datos se quedan en tu iPhone. Sin cuenta ni registro.
+Disponible en inglés, alemán, francés, italiano y español.
+
+**Contacto:** contact@hikeguard.ch
