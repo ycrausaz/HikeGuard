@@ -4,7 +4,7 @@
 
 **HikeGuard — Privacy Policy**
 
-Last updated: 2026/10/23
+Last updated: 2026/10/24
 
 HikeGuard ("the app") is an iPhone hiking application developed by Yann Crausaz ("we", "us", "the developer"). This Privacy Policy explains what information the app processes, how it is used, and the choices you have.
 
@@ -13,13 +13,14 @@ HikeGuard ("the app") is an iPhone hiking application developed by Yann Crausaz 
 **Information the app processes**
 
 - **Location data.** When you record a hike, the app uses your iPhone's GPS to record your position (coordinates, timestamps and elevation). Location is used to draw your recorded track, calculate distance travelled and cumulative ascent, show your current position on the map and — when you load a reference route — measure how far you are from that route so it can alert you if you leave it. With your permission, the app uses location in the background so recording continues while your screen is locked or another app is open.
+- **Country you are in.** When you open the app, it takes one approximate location fix (accurate to about 1 km) to find out which country you are in, so that it can select that country's map by default. To identify the country, this approximate position is sent to Apple's geocoding service; the app keeps only the country code. This happens only if you have allowed location access, and never during a hike.
 - **Motion and barometric data.** On iPhones equipped with a barometer, the app reads relative altitude changes from the device's motion and barometer sensors to calculate cumulative ascent more accurately than GPS altitude alone. This data is processed on your device.
 - **Route, track and log files.** You may import GPX or KML files as reference routes, and you can export your recorded hike as a GPX file and its session log as a CSV file. These files are handled on your device and are only shared when you choose to share them.
 - **Purchase information.** The full version is unlocked through an in-app purchase processed entirely by Apple. We do not receive your name, payment details or Apple Account information; the app only checks with Apple, on your device, whether the full version has been purchased.
 
 **How your information is used**
 
-The app uses the data above solely to provide its features: recording your hike, showing maps and your position, tracking elevation and distance, following a reference route, alerting you when you leave it, and unlocking the full version you purchased. The app does not use your data for advertising, profiling or tracking across other apps or websites.
+The app uses the data above solely to provide its features: recording your hike, showing maps and your position, selecting the map of the country you are in, tracking elevation and distance, following a reference route, alerting you when you leave it, and unlocking the full version you purchased. The app does not use your data for advertising, profiling or tracking across other apps or websites.
 
 **Data stays on your device**
 
@@ -31,10 +32,15 @@ If you choose to use them, the app can save copies of your data to your own iClo
 
 **Third-party map providers**
 
-To display maps, the app requests map tiles from the map provider you select in Settings: Apple Maps, SwissTopo (Swiss Federal Office of Topography swisstopo) or OpenTopoMap. When a map is displayed, the selected provider necessarily receives the map area being requested in order to return the correct tiles. These providers process such requests under their own privacy policies:
+To display maps, the app requests map tiles from the map provider selected in Settings — by default the official map of the country you are in: Apple Maps, SwissTopo (Swiss Federal Office of Topography swisstopo), basemap.at (Austrian administrations), TopPlusOpen (German Federal Agency for Cartography and Geodesy, BKG), Plan IGN (French National Institute of Geographic and Forest Information, IGN), IGN MTN (Spanish National Geographic Institute, IGN/CNIG), USGS Topo (U.S. Geological Survey) or OpenTopoMap. When a map is displayed or downloaded for offline use, the selected provider necessarily receives the map area being requested in order to return the correct tiles. These providers process such requests under their own privacy policies:
 
 - Apple Maps — https://www.apple.com/legal/privacy/
 - swisstopo — https://www.swisstopo.admin.ch
+- basemap.at — https://basemap.at
+- BKG — https://www.bkg.bund.de
+- IGN (France) — https://www.ign.fr
+- IGN / CNIG (España) — https://www.ign.es
+- USGS — https://www.usgs.gov
 - OpenTopoMap — https://opentopomap.org/about
 
 We do not control and are not responsible for the practices of these providers.
@@ -45,7 +51,7 @@ The app uses local notifications and Live Activities to show information and con
 
 **Sharing your data**
 
-The app does not share your data with us or with any third party, except: (a) with the map providers described above, to display maps; (b) with Apple, when you make or restore an in-app purchase or use the optional iCloud features; and (c) when you choose to export or share a GPX or CSV file (for example via the iOS Files app, AirDrop, Mail, Messages or another app you select). In that case the data goes wherever you send it, and that destination's own terms and privacy policy apply.
+The app does not share your data with us or with any third party, except: (a) with the map providers described above, to display maps; (b) with Apple, when you make or restore an in-app purchase, use the optional iCloud features, or when the app looks up which country you are in; and (c) when you choose to export or share a GPX or CSV file (for example via the iOS Files app, AirDrop, Mail, Messages or another app you select). In that case the data goes wherever you send it, and that destination's own terms and privacy policy apply.
 
 **Data retention and deletion**
 
@@ -77,7 +83,7 @@ If you have any questions about this Privacy Policy, contact: Yann Crausaz — c
 
 **HikeGuard — Politique de confidentialité**
 
-Dernière mise à jour : 23.10.2026
+Dernière mise à jour : 24.10.2026
 
 HikeGuard (« l'app ») est une application de randonnée pour iPhone développée par Yann Crausaz (« nous », « le développeur »). La présente politique de confidentialité explique quelles informations l'app traite, comment elles sont utilisées et les choix dont vous disposez.
 
@@ -86,13 +92,14 @@ HikeGuard (« l'app ») est une application de randonnée pour iPhone développ�
 **Informations traitées par l'app**
 
 - **Données de localisation.** Lorsque vous enregistrez une randonnée, l'app utilise le GPS de votre iPhone pour enregistrer votre position (coordonnées, horodatages et altitude). La localisation sert à tracer votre parcours enregistré, à calculer la distance parcourue et le dénivelé positif cumulé, à afficher votre position actuelle sur la carte et — lorsque vous chargez un itinéraire de référence — à mesurer votre écart par rapport à cet itinéraire afin de vous alerter si vous le quittez. Avec votre autorisation, l'app utilise la localisation en arrière-plan afin que l'enregistrement se poursuive lorsque votre écran est verrouillé ou qu'une autre app est ouverte.
+- **Pays où vous vous trouvez.** À l'ouverture de l'app, celle-ci effectue une localisation approximative (précise à environ 1 km) pour déterminer dans quel pays vous vous trouvez, afin de sélectionner par défaut la carte de ce pays. Pour identifier le pays, cette position approximative est envoyée au service de géocodage d'Apple ; l'app ne conserve que le code du pays. Cela n'a lieu que si vous avez autorisé l'accès à la localisation, et jamais pendant une randonnée.
 - **Données de mouvement et barométriques.** Sur les iPhone équipés d'un baromètre, l'app lit les variations d'altitude relative à partir des capteurs de mouvement et du baromètre de l'appareil pour calculer le dénivelé cumulé avec plus de précision que l'altitude GPS seule. Ces données sont traitées sur votre appareil.
 - **Fichiers d'itinéraire, de trace et de journal.** Vous pouvez importer des fichiers GPX ou KML comme itinéraires de référence, et exporter votre randonnée enregistrée sous forme de fichier GPX et son journal de session au format CSV. Ces fichiers sont gérés sur votre appareil et ne sont partagés que si vous choisissez de les partager.
 - **Informations d'achat.** La version complète est débloquée par un achat intégré entièrement traité par Apple. Nous ne recevons ni votre nom, ni vos données de paiement, ni les informations de votre compte Apple ; l'app vérifie seulement auprès d'Apple, sur votre appareil, si la version complète a été achetée.
 
 **Utilisation de vos informations**
 
-L'app utilise les données ci-dessus uniquement pour fournir ses fonctionnalités : enregistrer votre randonnée, afficher les cartes et votre position, suivre l'altitude et la distance, suivre un itinéraire de référence, vous alerter lorsque vous le quittez et débloquer la version complète que vous avez achetée. L'app n'utilise pas vos données à des fins de publicité, de profilage ou de suivi dans d'autres apps ou sites web.
+L'app utilise les données ci-dessus uniquement pour fournir ses fonctionnalités : enregistrer votre randonnée, afficher les cartes et votre position, sélectionner la carte du pays où vous vous trouvez, suivre l'altitude et la distance, suivre un itinéraire de référence, vous alerter lorsque vous le quittez et débloquer la version complète que vous avez achetée. L'app n'utilise pas vos données à des fins de publicité, de profilage ou de suivi dans d'autres apps ou sites web.
 
 **Vos données restent sur votre appareil**
 
@@ -104,10 +111,15 @@ Si vous choisissez de les utiliser, l'app peut enregistrer des copies de vos don
 
 **Fournisseurs de cartes tiers**
 
-Pour afficher les cartes, l'app demande des tuiles cartographiques au fournisseur que vous sélectionnez dans les réglages : Apple Maps, SwissTopo (Office fédéral de topographie swisstopo) ou OpenTopoMap. Lorsqu'une carte est affichée, le fournisseur sélectionné reçoit nécessairement la zone demandée afin de renvoyer les tuiles correspondantes. Ces fournisseurs traitent ces demandes selon leurs propres politiques de confidentialité :
+Pour afficher les cartes, l'app demande des tuiles cartographiques au fournisseur sélectionné dans les réglages — par défaut la carte officielle du pays où vous vous trouvez : Apple Maps, SwissTopo (Office fédéral de topographie swisstopo), basemap.at (administrations autrichiennes), TopPlusOpen (Office fédéral allemand de cartographie et de géodésie, BKG), Plan IGN (Institut national de l'information géographique et forestière, IGN), IGN MTN (Institut géographique national espagnol, IGN/CNIG), USGS Topo (Institut d'études géologiques des États-Unis, USGS) ou OpenTopoMap. Lorsqu'une carte est affichée ou téléchargée pour une utilisation hors ligne, le fournisseur sélectionné reçoit nécessairement la zone demandée afin de renvoyer les tuiles correspondantes. Ces fournisseurs traitent ces demandes selon leurs propres politiques de confidentialité :
 
 - Apple Maps — https://www.apple.com/legal/privacy/
 - swisstopo — https://www.swisstopo.admin.ch
+- basemap.at — https://basemap.at
+- BKG — https://www.bkg.bund.de
+- IGN (France) — https://www.ign.fr
+- IGN / CNIG (España) — https://www.ign.es
+- USGS — https://www.usgs.gov
 - OpenTopoMap — https://opentopomap.org/about
 
 Nous ne contrôlons pas et ne sommes pas responsables des pratiques de ces fournisseurs.
@@ -118,7 +130,7 @@ L'app utilise des notifications locales et des activités en direct (Live Activi
 
 **Partage de vos données**
 
-L'app ne partage vos données ni avec nous ni avec un tiers, sauf : (a) avec les fournisseurs de cartes décrits ci-dessus, pour afficher les cartes ; (b) avec Apple, lorsque vous effectuez ou restaurez un achat intégré ou utilisez les fonctions iCloud facultatives ; et (c) lorsque vous choisissez d'exporter ou de partager un fichier GPX ou CSV (par exemple via l'app Fichiers d'iOS, AirDrop, Mail, Messages ou une autre app que vous sélectionnez). Dans ce cas, les données sont transmises à la destination que vous choisissez, et les conditions et la politique de confidentialité de cette destination s'appliquent.
+L'app ne partage vos données ni avec nous ni avec un tiers, sauf : (a) avec les fournisseurs de cartes décrits ci-dessus, pour afficher les cartes ; (b) avec Apple, lorsque vous effectuez ou restaurez un achat intégré, utilisez les fonctions iCloud facultatives ou lorsque l'app détermine dans quel pays vous vous trouvez ; et (c) lorsque vous choisissez d'exporter ou de partager un fichier GPX ou CSV (par exemple via l'app Fichiers d'iOS, AirDrop, Mail, Messages ou une autre app que vous sélectionnez). Dans ce cas, les données sont transmises à la destination que vous choisissez, et les conditions et la politique de confidentialité de cette destination s'appliquent.
 
 **Conservation et suppression des données**
 
@@ -150,7 +162,7 @@ Pour toute question concernant cette politique de confidentialité, contactez : 
 
 **HikeGuard — Datenschutzerklärung**
 
-Zuletzt aktualisiert: 23.10.2026
+Zuletzt aktualisiert: 24.10.2026
 
 HikeGuard („die App") ist eine iPhone-Wanderapp, entwickelt von Yann Crausaz („wir", „uns", „der Entwickler"). Diese Datenschutzerklärung erläutert, welche Informationen die App verarbeitet, wie sie verwendet werden und welche Wahlmöglichkeiten Sie haben.
 
@@ -159,13 +171,14 @@ HikeGuard („die App") ist eine iPhone-Wanderapp, entwickelt von Yann Crausaz (
 **Von der App verarbeitete Informationen**
 
 - **Standortdaten.** Wenn Sie eine Wanderung aufzeichnen, nutzt die App das GPS Ihres iPhones, um Ihre Position (Koordinaten, Zeitstempel und Höhe) zu erfassen. Der Standort dient dazu, Ihre aufgezeichnete Spur darzustellen, die zurückgelegte Distanz und den kumulierten Aufstieg zu berechnen, Ihre aktuelle Position auf der Karte anzuzeigen und – wenn Sie eine Referenzroute laden – Ihren Abstand zu dieser Route zu messen, um Sie zu warnen, falls Sie sie verlassen. Mit Ihrer Erlaubnis nutzt die App den Standort im Hintergrund, damit die Aufzeichnung fortgesetzt wird, während Ihr Bildschirm gesperrt oder eine andere App geöffnet ist.
+- **Land, in dem Sie sich befinden.** Beim Öffnen ermittelt die App einmal Ihren ungefähren Standort (auf etwa 1 km genau), um festzustellen, in welchem Land Sie sich befinden, und standardmäßig die Karte dieses Landes auszuwählen. Zur Bestimmung des Landes wird diese ungefähre Position an den Geocoding-Dienst von Apple gesendet; die App speichert nur den Ländercode. Dies geschieht nur, wenn Sie den Standortzugriff erlaubt haben, und nie während einer Wanderung.
 - **Bewegungs- und Barometerdaten.** Auf iPhones mit Barometer liest die App relative Höhenänderungen aus den Bewegungs- und Barometersensoren des Geräts, um den kumulierten Aufstieg genauer zu berechnen als mit der GPS-Höhe allein. Diese Daten werden auf Ihrem Gerät verarbeitet.
 - **Routen-, Spur- und Protokolldateien.** Sie können GPX- oder KML-Dateien als Referenzrouten importieren und Ihre aufgezeichnete Wanderung als GPX-Datei sowie ihr Session-Protokoll als CSV-Datei exportieren. Diese Dateien werden auf Ihrem Gerät verarbeitet und nur dann geteilt, wenn Sie sich zum Teilen entscheiden.
 - **Kaufinformationen.** Die Vollversion wird über einen In-App-Kauf freigeschaltet, der vollständig von Apple abgewickelt wird. Wir erhalten weder Ihren Namen noch Zahlungsdaten oder Informationen zu Ihrem Apple Account; die App prüft lediglich auf Ihrem Gerät bei Apple, ob die Vollversion gekauft wurde.
 
 **Verwendung Ihrer Informationen**
 
-Die App verwendet die oben genannten Daten ausschließlich, um ihre Funktionen bereitzustellen: das Aufzeichnen Ihrer Wanderung, das Anzeigen von Karten und Ihrer Position, das Erfassen von Höhe und Distanz, das Folgen einer Referenzroute, das Warnen, wenn Sie diese verlassen, und das Freischalten der von Ihnen gekauften Vollversion. Die App verwendet Ihre Daten nicht für Werbung, Profilbildung oder geräte- bzw. dienstübergreifendes Tracking.
+Die App verwendet die oben genannten Daten ausschließlich, um ihre Funktionen bereitzustellen: das Aufzeichnen Ihrer Wanderung, das Anzeigen von Karten und Ihrer Position, die Auswahl der Karte des Landes, in dem Sie sich befinden, das Erfassen von Höhe und Distanz, das Folgen einer Referenzroute, das Warnen, wenn Sie diese verlassen, und das Freischalten der von Ihnen gekauften Vollversion. Die App verwendet Ihre Daten nicht für Werbung, Profilbildung oder geräte- bzw. dienstübergreifendes Tracking.
 
 **Daten bleiben auf Ihrem Gerät**
 
@@ -177,10 +190,15 @@ Wenn Sie sie nutzen möchten, kann die App Kopien Ihrer Daten in Ihrem eigenen i
 
 **Kartenanbieter von Drittanbietern**
 
-Zur Anzeige von Karten fordert die App Kartenkacheln beim in den Einstellungen gewählten Anbieter an: Apple Maps, SwissTopo (Bundesamt für Landestopografie swisstopo) oder OpenTopoMap. Wenn eine Karte angezeigt wird, erhält der gewählte Anbieter zwangsläufig den angeforderten Kartenausschnitt, um die passenden Kacheln zurückzugeben. Diese Anbieter verarbeiten solche Anfragen nach ihren eigenen Datenschutzerklärungen:
+Zur Anzeige von Karten fordert die App Kartenkacheln beim in den Einstellungen gewählten Anbieter an – standardmäßig die amtliche Karte des Landes, in dem Sie sich befinden: Apple Maps, SwissTopo (Bundesamt für Landestopografie swisstopo), basemap.at (österreichische Verwaltungen), TopPlusOpen (Bundesamt für Kartographie und Geodäsie, BKG), Plan IGN (französisches Institut national de l'information géographique et forestière, IGN), IGN MTN (spanisches Instituto Geográfico Nacional, IGN/CNIG), USGS Topo (U.S. Geological Survey) oder OpenTopoMap. Wenn eine Karte angezeigt oder für die Offline-Nutzung heruntergeladen wird, erhält der gewählte Anbieter zwangsläufig den angeforderten Kartenausschnitt, um die passenden Kacheln zurückzugeben. Diese Anbieter verarbeiten solche Anfragen nach ihren eigenen Datenschutzerklärungen:
 
 - Apple Maps — https://www.apple.com/legal/privacy/
 - swisstopo — https://www.swisstopo.admin.ch
+- basemap.at — https://basemap.at
+- BKG — https://www.bkg.bund.de
+- IGN (France) — https://www.ign.fr
+- IGN / CNIG (España) — https://www.ign.es
+- USGS — https://www.usgs.gov
 - OpenTopoMap — https://opentopomap.org/about
 
 Wir kontrollieren die Praktiken dieser Anbieter nicht und sind dafür nicht verantwortlich.
@@ -191,7 +209,7 @@ Die App verwendet lokale Mitteilungen und Live Activities, um Informationen und 
 
 **Weitergabe Ihrer Daten**
 
-Die App gibt Ihre Daten weder an uns noch an Dritte weiter, außer: (a) an die oben beschriebenen Kartenanbieter, um Karten anzuzeigen; (b) an Apple, wenn Sie einen In-App-Kauf tätigen oder wiederherstellen oder die optionalen iCloud-Funktionen nutzen; und (c) wenn Sie sich entscheiden, eine GPX- oder CSV-Datei zu exportieren oder zu teilen (zum Beispiel über die iOS-Dateien-App, AirDrop, Mail, Nachrichten oder eine andere von Ihnen gewählte App). In diesem Fall gelangen die Daten an das von Ihnen gewählte Ziel, und dessen eigene Bedingungen und Datenschutzerklärung gelten.
+Die App gibt Ihre Daten weder an uns noch an Dritte weiter, außer: (a) an die oben beschriebenen Kartenanbieter, um Karten anzuzeigen; (b) an Apple, wenn Sie einen In-App-Kauf tätigen oder wiederherstellen, die optionalen iCloud-Funktionen nutzen oder wenn die App ermittelt, in welchem Land Sie sich befinden; und (c) wenn Sie sich entscheiden, eine GPX- oder CSV-Datei zu exportieren oder zu teilen (zum Beispiel über die iOS-Dateien-App, AirDrop, Mail, Nachrichten oder eine andere von Ihnen gewählte App). In diesem Fall gelangen die Daten an das von Ihnen gewählte Ziel, und dessen eigene Bedingungen und Datenschutzerklärung gelten.
 
 **Aufbewahrung und Löschung von Daten**
 
@@ -223,7 +241,7 @@ Bei Fragen zu dieser Datenschutzerklärung wenden Sie sich an: Yann Crausaz — 
 
 **HikeGuard — Informativa sulla privacy**
 
-Ultimo aggiornamento: 23.10.2026
+Ultimo aggiornamento: 24.10.2026
 
 HikeGuard (« l'app ») è un'applicazione per escursioni per iPhone sviluppata da Yann Crausaz (« noi », « lo sviluppatore »). La presente informativa sulla privacy spiega quali informazioni l'app tratta, come vengono utilizzate e quali scelte hai a disposizione.
 
@@ -232,13 +250,14 @@ HikeGuard (« l'app ») è un'applicazione per escursioni per iPhone sviluppata 
 **Informazioni trattate dall'app**
 
 - **Dati di posizione.** Quando registri un'escursione, l'app utilizza il GPS del tuo iPhone per registrare la tua posizione (coordinate, orari e altitudine). La posizione serve a tracciare il percorso registrato, a calcolare la distanza percorsa e il dislivello positivo cumulato, a mostrare la tua posizione attuale sulla mappa e — quando carichi un percorso di riferimento — a misurare la tua distanza da tale percorso per avvisarti se te ne allontani. Con il tuo consenso, l'app utilizza la posizione in background affinché la registrazione prosegua mentre lo schermo è bloccato o un'altra app è aperta.
+- **Paese in cui ti trovi.** Quando apri l'app, questa rileva una volta la tua posizione approssimativa (precisa a circa 1 km) per determinare in quale Paese ti trovi, così da selezionare per impostazione predefinita la mappa di quel Paese. Per identificare il Paese, questa posizione approssimativa viene inviata al servizio di geocodifica di Apple; l'app conserva solo il codice del Paese. Ciò avviene solo se hai consentito l'accesso alla posizione, e mai durante un'escursione.
 - **Dati di movimento e barometrici.** Sugli iPhone dotati di barometro, l'app legge le variazioni di altitudine relativa dai sensori di movimento e dal barometro del dispositivo per calcolare il dislivello cumulato con maggiore precisione rispetto alla sola altitudine GPS. Questi dati sono trattati sul tuo dispositivo.
 - **File di percorso, di traccia e di registro.** Puoi importare file GPX o KML come percorsi di riferimento ed esportare l'escursione registrata come file GPX e il suo registro della sessione come file CSV. Questi file sono gestiti sul tuo dispositivo e vengono condivisi solo se scegli di condividerli.
 - **Informazioni sull'acquisto.** La versione completa si sblocca con un acquisto in-app gestito interamente da Apple. Non riceviamo il tuo nome, i dati di pagamento né le informazioni del tuo account Apple; l'app verifica soltanto con Apple, sul tuo dispositivo, se la versione completa è stata acquistata.
 
 **Come vengono utilizzate le tue informazioni**
 
-L'app utilizza i dati sopra indicati esclusivamente per fornire le proprie funzioni: registrare l'escursione, mostrare le mappe e la tua posizione, monitorare altitudine e distanza, seguire un percorso di riferimento, avvisarti quando te ne allontani e sbloccare la versione completa che hai acquistato. L'app non utilizza i tuoi dati per pubblicità, profilazione o tracciamento su altre app o siti web.
+L'app utilizza i dati sopra indicati esclusivamente per fornire le proprie funzioni: registrare l'escursione, mostrare le mappe e la tua posizione, selezionare la mappa del Paese in cui ti trovi, monitorare altitudine e distanza, seguire un percorso di riferimento, avvisarti quando te ne allontani e sbloccare la versione completa che hai acquistato. L'app non utilizza i tuoi dati per pubblicità, profilazione o tracciamento su altre app o siti web.
 
 **I dati restano sul tuo dispositivo**
 
@@ -250,10 +269,15 @@ Se scegli di usarle, l'app può salvare copie dei tuoi dati nel tuo account iClo
 
 **Fornitori di mappe di terze parti**
 
-Per visualizzare le mappe, l'app richiede i riquadri cartografici al fornitore che selezioni nelle impostazioni: Apple Maps, SwissTopo (Ufficio federale di topografia swisstopo) o OpenTopoMap. Quando viene visualizzata una mappa, il fornitore selezionato riceve necessariamente l'area richiesta per restituire i riquadri corretti. Questi fornitori trattano tali richieste secondo le proprie informative sulla privacy:
+Per visualizzare le mappe, l'app richiede i riquadri cartografici al fornitore selezionato nelle impostazioni — per impostazione predefinita la mappa ufficiale del Paese in cui ti trovi: Apple Maps, SwissTopo (Ufficio federale di topografia swisstopo), basemap.at (amministrazioni austriache), TopPlusOpen (Ufficio federale tedesco di cartografia e geodesia, BKG), Plan IGN (Istituto nazionale dell'informazione geografica e forestale francese, IGN), IGN MTN (Istituto geografico nazionale spagnolo, IGN/CNIG), USGS Topo (Servizio geologico degli Stati Uniti, USGS) o OpenTopoMap. Quando una mappa viene visualizzata o scaricata per l'uso offline, il fornitore selezionato riceve necessariamente l'area richiesta per restituire i riquadri corretti. Questi fornitori trattano tali richieste secondo le proprie informative sulla privacy:
 
 - Apple Maps — https://www.apple.com/legal/privacy/
 - swisstopo — https://www.swisstopo.admin.ch
+- basemap.at — https://basemap.at
+- BKG — https://www.bkg.bund.de
+- IGN (France) — https://www.ign.fr
+- IGN / CNIG (España) — https://www.ign.es
+- USGS — https://www.usgs.gov
 - OpenTopoMap — https://opentopomap.org/about
 
 Non controlliamo e non siamo responsabili delle pratiche di questi fornitori.
@@ -264,7 +288,7 @@ L'app utilizza notifiche locali e Live Activities per mostrare informazioni e co
 
 **Condivisione dei tuoi dati**
 
-L'app non condivide i tuoi dati con noi né con terze parti, salvo: (a) con i fornitori di mappe descritti sopra, per visualizzare le mappe; (b) con Apple, quando effettui o ripristini un acquisto in-app o utilizzi le funzioni iCloud facoltative; e (c) quando scegli di esportare o condividere un file GPX o CSV (ad esempio tramite l'app File di iOS, AirDrop, Mail, Messaggi o un'altra app che selezioni). In tal caso i dati vengono inviati alla destinazione da te scelta, e si applicano i termini e l'informativa sulla privacy di tale destinazione.
+L'app non condivide i tuoi dati con noi né con terze parti, salvo: (a) con i fornitori di mappe descritti sopra, per visualizzare le mappe; (b) con Apple, quando effettui o ripristini un acquisto in-app, utilizzi le funzioni iCloud facoltative o quando l'app determina in quale Paese ti trovi; e (c) quando scegli di esportare o condividere un file GPX o CSV (ad esempio tramite l'app File di iOS, AirDrop, Mail, Messaggi o un'altra app che selezioni). In tal caso i dati vengono inviati alla destinazione da te scelta, e si applicano i termini e l'informativa sulla privacy di tale destinazione.
 
 **Conservazione ed eliminazione dei dati**
 
@@ -296,7 +320,7 @@ Per qualsiasi domanda su questa informativa sulla privacy, contatta: Yann Crausa
 
 **HikeGuard — Política de privacidad**
 
-Última actualización: 23.10.2026
+Última actualización: 24.10.2026
 
 HikeGuard («la app») es una aplicación de senderismo para iPhone desarrollada por Yann Crausaz («nosotros», «el desarrollador»). Esta política de privacidad explica qué información trata la app, cómo se utiliza y qué opciones tienes.
 
@@ -305,13 +329,14 @@ HikeGuard («la app») es una aplicación de senderismo para iPhone desarrollada
 **Información que trata la app**
 
 - **Datos de ubicación.** Cuando grabas una excursión, la app utiliza el GPS de tu iPhone para registrar tu posición (coordenadas, hora y altitud). La ubicación sirve para dibujar tu recorrido grabado, calcular la distancia recorrida y el desnivel positivo acumulado, mostrar tu posición actual en el mapa y, cuando cargas una ruta de referencia, medir a qué distancia estás de esa ruta para avisarte si te sales de ella. Con tu permiso, la app utiliza la ubicación en segundo plano para que la grabación continúe mientras la pantalla está bloqueada u otra app está abierta.
+- **País en el que estás.** Al abrir la app, esta obtiene una vez tu ubicación aproximada (con una precisión de 1 km aproximadamente) para saber en qué país estás y seleccionar por defecto el mapa de ese país. Para identificar el país, esta posición aproximada se envía al servicio de geocodificación de Apple; la app solo conserva el código del país. Esto solo ocurre si has permitido el acceso a la ubicación, y nunca durante una excursión.
 - **Datos de movimiento y barométricos.** En los iPhone equipados con barómetro, la app lee los cambios de altitud relativa de los sensores de movimiento y del barómetro del dispositivo para calcular el desnivel acumulado con más precisión que con la altitud GPS sola. Estos datos se tratan en tu dispositivo.
 - **Archivos de ruta, de recorrido y de registro.** Puedes importar archivos GPX o KML como rutas de referencia, y exportar tu excursión grabada como archivo GPX y su registro de sesión como archivo CSV. Estos archivos se gestionan en tu dispositivo y solo se comparten si decides compartirlos.
 - **Información de compra.** La versión completa se desbloquea mediante una compra dentro de la app gestionada íntegramente por Apple. No recibimos tu nombre, tus datos de pago ni la información de tu cuenta de Apple; la app solo comprueba con Apple, en tu dispositivo, si se ha comprado la versión completa.
 
 **Cómo se utiliza tu información**
 
-La app utiliza los datos anteriores únicamente para ofrecer sus funciones: grabar tu excursión, mostrar los mapas y tu posición, registrar la altitud y la distancia, seguir una ruta de referencia, avisarte cuando te sales de ella y desbloquear la versión completa que has comprado. La app no utiliza tus datos para publicidad, elaboración de perfiles ni seguimiento a través de otras apps o sitios web.
+La app utiliza los datos anteriores únicamente para ofrecer sus funciones: grabar tu excursión, mostrar los mapas y tu posición, seleccionar el mapa del país en el que estás, registrar la altitud y la distancia, seguir una ruta de referencia, avisarte cuando te sales de ella y desbloquear la versión completa que has comprado. La app no utiliza tus datos para publicidad, elaboración de perfiles ni seguimiento a través de otras apps o sitios web.
 
 **Tus datos se quedan en tu dispositivo**
 
@@ -323,10 +348,15 @@ Si decides utilizarlas, la app puede guardar copias de tus datos en tu propia cu
 
 **Proveedores de mapas externos**
 
-Para mostrar los mapas, la app solicita teselas cartográficas al proveedor que selecciones en Ajustes: Apple Maps, SwissTopo (Oficina Federal de Topografía swisstopo) u OpenTopoMap. Cuando se muestra un mapa, el proveedor seleccionado recibe necesariamente la zona solicitada para devolver las teselas correspondientes. Estos proveedores tratan dichas solicitudes conforme a sus propias políticas de privacidad:
+Para mostrar los mapas, la app solicita teselas cartográficas al proveedor seleccionado en Ajustes (por defecto, el mapa oficial del país en el que estás): Apple Maps, SwissTopo (Oficina Federal de Topografía swisstopo), basemap.at (administraciones austriacas), TopPlusOpen (Oficina Federal Alemana de Cartografía y Geodesia, BKG), Plan IGN (Instituto Nacional de Información Geográfica y Forestal de Francia, IGN), IGN MTN (Instituto Geográfico Nacional, IGN/CNIG), USGS Topo (Servicio Geológico de Estados Unidos, USGS) u OpenTopoMap. Cuando se muestra un mapa o se descarga para usarlo sin conexión, el proveedor seleccionado recibe necesariamente la zona solicitada para devolver las teselas correspondientes. Estos proveedores tratan dichas solicitudes conforme a sus propias políticas de privacidad:
 
 - Apple Maps — https://www.apple.com/legal/privacy/
 - swisstopo — https://www.swisstopo.admin.ch
+- basemap.at — https://basemap.at
+- BKG — https://www.bkg.bund.de
+- IGN (France) — https://www.ign.fr
+- IGN / CNIG (España) — https://www.ign.es
+- USGS — https://www.usgs.gov
 - OpenTopoMap — https://opentopomap.org/about
 
 No controlamos las prácticas de estos proveedores ni somos responsables de ellas.
@@ -337,7 +367,7 @@ La app utiliza notificaciones locales y Actividades en vivo (Live Activities) pa
 
 **Cómo se comparten tus datos**
 
-La app no comparte tus datos con nosotros ni con terceros, salvo: (a) con los proveedores de mapas descritos anteriormente, para mostrar los mapas; (b) con Apple, cuando realizas o restauras una compra dentro de la app o utilizas las funciones opcionales de iCloud; y (c) cuando decides exportar o compartir un archivo GPX o CSV (por ejemplo, mediante la app Archivos de iOS, AirDrop, Mail, Mensajes u otra app que elijas). En ese caso, los datos se envían al destino que elijas, y se aplican las condiciones y la política de privacidad de ese destino.
+La app no comparte tus datos con nosotros ni con terceros, salvo: (a) con los proveedores de mapas descritos anteriormente, para mostrar los mapas; (b) con Apple, cuando realizas o restauras una compra dentro de la app, utilizas las funciones opcionales de iCloud o cuando la app averigua en qué país estás; y (c) cuando decides exportar o compartir un archivo GPX o CSV (por ejemplo, mediante la app Archivos de iOS, AirDrop, Mail, Mensajes u otra app que elijas). En ese caso, los datos se envían al destino que elijas, y se aplican las condiciones y la política de privacidad de ese destino.
 
 **Conservación y eliminación de datos**
 
